@@ -1,5 +1,5 @@
-#ifndef FUNC_TEMPLATE
-#define FUNC_TEMPLATE
+#ifndef FUNC_TEMPLATE_HPP
+#define FUNC_TEMPLATE_HPP
 
 template <class T>
 void	swap(T& a, T& b)
