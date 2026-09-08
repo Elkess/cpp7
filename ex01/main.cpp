@@ -9,5 +9,6 @@ void char_to_ascii(const T &c)
 int main()
 {
 	const char s[9] = "abcdefgh";
+
 	iter(s, 8, char_to_ascii<char>);
 }
